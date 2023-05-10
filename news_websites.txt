@@ -1,5 +1,0 @@
-wsj.com
-cnbc.com
-bloomberg.com
-reuters.com
-ft.com
