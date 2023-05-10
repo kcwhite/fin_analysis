@@ -1,0 +1,6 @@
+beautifulsoup4~=4.12.2
+textblob~=0.17.1
+yfinance~=0.2.18
+requests~=2.29.0
+grequests~=0.6.0
+googlesearch_python~=1.2.3
